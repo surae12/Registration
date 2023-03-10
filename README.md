@@ -1,3 +1,2 @@
 deployed site 
-
-https://main--wondrous-melba-5df993.netlify.app/register
+https://main--wondrous-melba-5df993.netlify.app/
