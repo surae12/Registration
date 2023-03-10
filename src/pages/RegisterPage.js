@@ -120,7 +120,7 @@ export const RegisterPage = () => {
                                 </div>
                                 <div className="clearfix"></div>
                                 <div className="form-group">
-                                    Already have account ? Please <Link to="/login">Login</Link>
+                                    Already have account ? Please <Link to="/">Login</Link>
                                 </div>
 
 
