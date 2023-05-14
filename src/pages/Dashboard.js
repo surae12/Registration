@@ -37,7 +37,7 @@ export default function DashboardPage() {
             <NavBar logoutUser={logoutUser} />
             <main role="main" className="container mt-5">
                 <div className="container">
-                    {/* <div className="text-center mt-5">
+                    <div className="text-center mt-5">
                         <h3>Dashboard page</h3>
                         {user.name && user.email && user.localId ?
                             (<div>
@@ -46,8 +46,8 @@ export default function DashboardPage() {
                             </div>)
                             : <p>Loading...</p>
                         }
-                    </div> */}
-                    <h1>Hello World</h1>
+                    </div>
+
                 </div>
             </main>
         </div>
